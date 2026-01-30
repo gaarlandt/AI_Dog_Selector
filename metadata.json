@@ -1,0 +1,7 @@
+{
+  "name": "Let's Dog - Breed Detector",
+  "description": "AI-powered dog breed identification tool branded for Let's Dog.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
